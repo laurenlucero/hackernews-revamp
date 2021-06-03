@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { darkTheme } from "../../theme/globalStyle";
 import PropTypes from "prop-types";
